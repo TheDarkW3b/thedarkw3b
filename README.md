@@ -8,8 +8,9 @@
 - ⚡ Self Written Quote: Life Is All About __Programming__
 <br />
 <img align="center" src="https://media.giphy.com/media/3o7aCVqXn0idWFuDnO/giphy.gif" width="600" height=300>
-<br />
+
 ---
+
 ### You Can Contact Me At:
 
 [<img align="left" alt="thedarkw3b.github.io/darkweb/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
