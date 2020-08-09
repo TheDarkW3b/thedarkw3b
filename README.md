@@ -6,8 +6,9 @@
 - ⚽️ I am currently learning everything 🤣
 - 🥅 My Goal is To Travel World, I am in ❤️ With Travelling
 - ⚡ Self Written Quote: Life Is All About __Programming__
-<br>
-<center><img src="https://media.giphy.com/media/3o7aCVqXn0idWFuDnO/giphy.gif" width="600" height=250></center>
+<br />
+<img align="center" src="https://media.giphy.com/media/3o7aCVqXn0idWFuDnO/giphy.gif" width="600" height=300>
+<br />
 ---
 ### You Can Contact Me At:
 
