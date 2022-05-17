@@ -1,11 +1,11 @@
 ### 👋 Hoi,  I Am [@TheDarkW3b](https://t.me/TheDarkW3b)
 
 ## A Guy Whos Not Perfect But Working Hard For His Dreams
-- 🙈 Animal Lover!
+- 🙈 NoiR (なんだよ)
 - 👯 Thinking To Start Contributing in Open Source
 - ⚽️ I am currently learning everything 🤣
 - 🥅 My Goal is To Travel World, I am in ❤️ With Travelling
-- ⚡ Self Written Quote: Life Is All About __Programming__
+- ⚡ Quote: Life Is All About __Programming__
 <br />
 <img align="center" src="https://media.giphy.com/media/3o7aCVqXn0idWFuDnO/giphy.gif" width="600" height=300>
 
