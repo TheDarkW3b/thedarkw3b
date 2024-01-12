@@ -1,4 +1,4 @@
-### 👋 Hoi,  I Am [@TheDarkW3b]([https://t.me/TheDarkW3b](https://github.com/TheDarkW3b))
+### 👋 Hoi,  I Am [@TheDarkW3b](https://github.com/TheDarkW3b)
 
 ## A Guy Whos Not Perfect But Working Hard For His Dreams
 - ⚡ NoiR
