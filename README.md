@@ -4,7 +4,7 @@
 - ⚡ NoiR
 - 👯 Security Researcher | Bug Bounty
 - ⚽️ Gotta learn everything 🤣
-- 🥅 ❤️ to travel
+- ❤️ to travel
 - ⚡ Quote: _The quieter you become the more are able to hear_
 <br />
 <img align="center" src="https://media.giphy.com/media/3o7aCVqXn0idWFuDnO/giphy.gif" width="600" height=300>
