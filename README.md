@@ -1,11 +1,11 @@
-### 👋 Hoi,  I Am [@TheDarkW3b](https://t.me/TheDarkW3b)
+### 👋 Hoi,  I Am [@TheDarkW3b]([https://t.me/TheDarkW3b](https://github.com/TheDarkW3b))
 
 ## A Guy Whos Not Perfect But Working Hard For His Dreams
-- 🙈 NoiR (なんだよ)
-- 👯 Thinking To Start Contributing in Open Source
-- ⚽️ I am currently learning everything 🤣
-- 🥅 My Goal is To Travel World, I am in ❤️ With Travelling
-- ⚡ Quote: Life Is All About __Programming__
+- ⚡ NoiR
+- 👯 Security Researcher | Bug Bounty
+- ⚽️ Gotta learn everything 🤣
+- 🥅 ❤️ to travel
+- ⚡ Quote: _The quieter you become the more are able to hear_
 <br />
 <img align="center" src="https://media.giphy.com/media/3o7aCVqXn0idWFuDnO/giphy.gif" width="600" height=300>
 
