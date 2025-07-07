@@ -1,9 +1,10 @@
 ### 👋 Hoi, I Am [@TheDarkW3b](https://github.com/TheDarkW3b)
 
-## Security Researcher | Full-Stack Developer | Lifelong Learner
+## Software Engineer | Bug Bounty | Lifelong Learner
 
 - ⚡ **NoiR**
-- 👨‍💻 Constantly learning and evolving
+- 👨‍💻 I turn ideas into code with **Java + Spring Boot**
+- 🌱 Always building, always learning from microservices to scalable APIs 
 - 🕵️‍♂️ Security Researcher, Bug Bounty and secure development
 - 🌐 Love to explore new tech and challenge myself
 - ⚡ Quote: _Strive not to be a success, but rather to be of value. – Albert Einstein_
